@@ -86,6 +86,7 @@
 		13B07FAE1A68108700A75B9A /* FacebookMessenger */ = {
 			isa = PBXGroup;
 			children = (
+				E21E978D2A28433200D3B75E /* Fonts */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -146,6 +147,13 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-FacebookMessenger-FacebookMessengerTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		E21E978D2A28433200D3B75E /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
